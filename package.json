@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/brulilika/EntendoTypeScript#readme",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.5"
   }
 }
