@@ -59,3 +59,4 @@ usuario = {
     idade: 5,
     nome: "Julia"
 };
+//# sourceMappingURL=tipos.js.map
