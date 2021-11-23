@@ -34,4 +34,3 @@ if (nome != "Pao") {
 //Como permitir que objetos sejam Nullable
 let altura = 10;
 altura = null;
-//# sourceMappingURL=desafioTipagem.js.map

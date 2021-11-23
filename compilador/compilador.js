@@ -9,4 +9,3 @@ console.log(canal);
 //tsconfig.json
 //Link bom para revisão e dúvidas
 //https://www.typescriptlang.org/docs/handbook/compiler-options.html
-//# sourceMappingURL=compilador.js.map

@@ -64,4 +64,3 @@ fetch('https://swapi.dev/api/people/1')
     .then(respFilms => respFilms.json())
     .then(filme => console.log(filme))
     .catch(erro => console.log(erro));
-//# sourceMappingURL=ecmascript.js.map
