@@ -8,6 +8,11 @@ module.exports = {
         filename: 'app.main.js',
         path: path.join(__dirname, 'dist')
     },
+    devServer: {
+        contentBase: path.join(__dirname,'dist'),
+        port: 9000,
+        hot: true
+    },
     plugins:[
         new CopyPlugin([{
             from: 'public'
